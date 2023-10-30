@@ -1,7 +1,7 @@
 # Week-10b
 Tugas Artificial Intelligent and Aplication Week 10
 
-Nama		: Almas Diqya Wafa’
+Nama		: Almas Diqya Wafa’ 
 NIM		: 5311421005
 Prodi		: Teknik Elektro
 Mata Kuliah	: Artificial Intellegent and Aplication
